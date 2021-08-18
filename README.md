@@ -1,6 +1,6 @@
 ## Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm a software engineer with a specialization in front-end development based in São Paulo, Brazil.
+I'm a software engineer with a specialization in front-end development.
 
 I love how computers influence our society, the possibilities that it provides are endless. Since 2015 I've been creating tools to help humans integrate computers on their day-to-day life. 
 
@@ -9,7 +9,7 @@ On the way I've became a *huge nerd* who loves **unix**, **design**, **cybersecu
 
 ### What I'm working on:
 
-- 🌱 I’m currently learning *Advanced Algorithms and Data Structures*, *Swift*, and *Systems Architecture*
+- 🌱 I’m currently learning *Algorithms and Data Structures*, *Swift*, and *Systems Architecture*
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@caicorre](https://twitter.com/caicorre)
 
