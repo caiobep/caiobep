@@ -6,14 +6,6 @@ I love how computers influence our society, the possibilities that it provides a
 
 On the way I've became a *huge nerd* who loves **unix**, **design**, **cybersecurity**, **productivity**, **tools**, **gadgets**, **podcasts** and **science** among other things.
 
-
-### What I'm working on:
-
-- 🌱 I’m currently learning *Algorithms and Data Structures*, *Swift*, and *Systems Architecture*
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [@caicorre](https://twitter.com/caicorre)
-
-
 ### Let's Hangout 🌎
 
 Do you have any tool recommendations? Want to ask me something? Perhaps just a chat? Please contact me on any of the above 😁
