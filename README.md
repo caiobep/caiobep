@@ -4,7 +4,7 @@ Using science and software to enhance human capabilities and seamlessly integrat
 
 Let's Hangout Online
 
-<a href="https://twitter.com/caicorre">
+<a href="https://twitter.com/caiobep">
   <img align="left" alt="Caio's Twitter" width="22px" src="https://cdn.simpleicons.org/x/black/white" />
 </a>
 <a href="https://mstdn.social/@caicorre">
